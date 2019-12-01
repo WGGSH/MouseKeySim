@@ -14,3 +14,14 @@ d & l::
   MouseMove, 30, 0, 0, R
   return
 
+d & v::
+  MouseClick , LEFT, , , , ,
+  return
+
+d & b::
+  MouseClick , MIDDLE, , , , ,
+  return
+
+d & n::
+  MouseClick , RIGHT, , , , ,
+  return
